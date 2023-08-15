@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/9e817f30bbc94e4a8942f2bee5fd904d/artifacts
+end_time: 1692084446988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e817f30bbc94e4a8942f2bee5fd904d
+run_name: masked-zebra-631
+run_uuid: 9e817f30bbc94e4a8942f2bee5fd904d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692084443396
+status: 3
+tags: []
+user_id: PRATIK MORE

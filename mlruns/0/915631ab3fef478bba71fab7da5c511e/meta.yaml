@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/915631ab3fef478bba71fab7da5c511e/artifacts
+end_time: 1692084456109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 915631ab3fef478bba71fab7da5c511e
+run_name: sassy-fawn-922
+run_uuid: 915631ab3fef478bba71fab7da5c511e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692084452578
+status: 3
+tags: []
+user_id: PRATIK MORE

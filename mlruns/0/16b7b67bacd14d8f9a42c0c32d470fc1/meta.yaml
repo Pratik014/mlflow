@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/16b7b67bacd14d8f9a42c0c32d470fc1/artifacts
+end_time: 1692084464651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b7b67bacd14d8f9a42c0c32d470fc1
+run_name: rebellious-skunk-568
+run_uuid: 16b7b67bacd14d8f9a42c0c32d470fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692084460940
+status: 3
+tags: []
+user_id: PRATIK MORE
