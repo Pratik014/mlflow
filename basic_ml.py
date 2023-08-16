@@ -80,6 +80,8 @@ if __name__ == '__main__':
     args.add_argument("--n_estimators", "-n", default=50, type=int)
     args.add_argument("--max_depth", "-m", default=5, type=int)
     parse_args=args.parse_args()
+
+    
     try:
         main(n_estimators=parse_args.n_estimators,max_depth=parse_args.max_depth)
     except Exception as e:
